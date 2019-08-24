@@ -1,30 +1,29 @@
-[
-  { "id": 1, 
-  "title": "Siêu thị Lotte Mart", 
-  "location": "220 Cầu Giấy, Ba Đình, Hà Nội", 
-  "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng." },
-  
-  { "id": 2,
-  "title": "Siêu thị VinMart",
-  "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
-  "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."},
-  
-  { "id": 3,
-  "title": "Siêu thị điện máy HC",
- "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
-  "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."},
-    
-  { "id": 4,
-  "title": "Siêu thị AEON",
-  "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
-  "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."},
-  
-    
-  { "id": 5,
-  "title": "Siêu thị Lotte Mart",
-  "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
-  "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."}
-  
-    
-  
-]
+{  
+  "supermarket": [
+    { "id": 1, 
+    "title": "Siêu thị Lotte Mart", 
+    "location": "220 Cầu Giấy, Ba Đình, Hà Nội", 
+    "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng." },
+
+    { "id": 2,
+    "title": "Siêu thị VinMart",
+    "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
+    "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."},
+
+    { "id": 3,
+    "title": "Siêu thị điện máy HC",
+   "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
+    "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."},
+
+    { "id": 4,
+    "title": "Siêu thị AEON",
+    "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
+    "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."},
+
+
+    { "id": 5,
+    "title": "Siêu thị Lotte Mart",
+    "location": "220 Cầu Giấy, Ba Đình, Hà Nội",
+    "describe": "Chuỗi siêu thị lớn bán nhiều loại mặt hàng, quần áo, đồ điện tử và các hàng hoá khác. Luôn có nhiều ưu đãi hấp dẫn dành cho khách hàng."}
+  ]
+}
